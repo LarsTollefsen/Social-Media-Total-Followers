@@ -56,7 +56,7 @@ Twitch API similar to the YouTube request. Needs the API key added in the header
 
 ### TWITTER
 
-Twitter API needs tweepy installed to handle the authorization, but other than that it's the same process as the others to get the data.
+Twitter API needs tweepy installed to handle the authorization, but other than that it's the same process as the others to get the data. Be aware that you need four keys here. You need to register and wait for your developer application to go through to be able to get all these 4 keys.
 
 ### RUN GUI
 
